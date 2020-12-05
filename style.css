@@ -1,0 +1,47 @@
+*{
+    margin:0;
+    padding:0;
+}
+.clock{
+    border-radius: 50%;
+    height: 300px;
+    width: 300px;
+    display: inline-flex;
+    position:absolute;
+    margin:auto;
+    border:solid black;
+    margin:auto;
+    margin-top: 100px;
+    margin-left: 25%;
+    background-color:rgb(172, 104, 250);
+}
+#timer{
+    background-color: rgb(219, 217, 217);
+    height: 100px;
+    width: 250px;
+    border: solid rgb(0, 0, 0);
+    position: relative;
+    margin-top: 70px;
+    margin-left: 25px;
+    border-radius:25px;
+    text-decoration-color: limegreen;
+    text-align: center;
+    font-size: 400%;
+    font-display: center;
+}
+#startstop{
+    border-radius: 50%;
+    height:80px;
+    width:80px;
+    border: solid black;
+    position: absolute;
+    margin-left:35%;
+    margin-top: 60%;
+    background-color: rgb(243, 57, 57);
+    font-size: large;
+    font-family: cursive;
+    text-align:center;
+}
+.button{
+    border-radius: 50%;
+}
